@@ -15,7 +15,7 @@ src: pages/3_before_start.md
 
 ---
 src: pages/definition.md
-image: images/es_book.png
+image: /images/es_book.png
 layout: image-right
 backgroundSize: 60%
 ---
