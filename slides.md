@@ -29,6 +29,22 @@ src: pages/definitions.md
 ---
 
 ---
+src: pages/process_1.md
+---
+
+---
+src: pages/process_2.md
+---
+
+---
+src: pages/process_3.md
+---
+
+---
+src: pages/process_example_1.md
+---
+
+---
 src: pages/sources.md
 ---
 
