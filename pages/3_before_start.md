@@ -3,7 +3,7 @@
 <br> <br>
 
 * В нижней части каждого слайда есть его номер, на который удобно ссылаться при вопросах;
-* Презентация доступна в вебе: https://nightblure.github.io/ddd-ailet/ (ссылка будет в чате _architecture_);
+* Презентация доступна в вебе: https://nightblure.github.io/event-storming-ailet/ (ссылка будет в чате _architecture_);
 * Репозиторий с презентацией: https://github.com/nightblure/event-storming-ailet;
 * Любые дискуссии, вопросы, исправления и замечания приветствуются!
 
